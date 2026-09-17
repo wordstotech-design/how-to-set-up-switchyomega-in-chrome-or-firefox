@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href="https://www.proxy-cheap.com/">
-    <img src="REPLACE_WITH_SCREENSHOT_URL" alt="how-to-set-up-switchyomega-in-chrome-or-firefox" />
+    <img width="1661" height="931" alt="image" src="https://github.com/user-attachments/assets/13a8db72-5594-4f12-9258-8f832fee76f5" />
+
   </a>
 </p>
 
